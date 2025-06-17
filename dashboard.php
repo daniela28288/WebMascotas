@@ -18,7 +18,7 @@ require 'conexion.php';
 <body>
     <main class="dashboard">
         <header>
-            <h2>Administrar Mascotas</h2>
+            <h2>Administrar mascotas</h2>
             <a href="logout.php" class="close"></a>
         </header>
        <a href="add.php" class="add"></a>   
